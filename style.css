@@ -1,0 +1,60 @@
+body {
+	background-color: #eee;
+	font-family: helvetica, arial, times
+}
+
+a {
+	text-decoration: none;
+	color:#ff9900
+}
+
+h1 {
+	margin: 0;
+}
+
+#container {
+	background-color: white;
+	width: 1800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	background-color: #ff9900;
+	color:white;
+	text-align: center;
+	padding: 10 px;
+}
+
+#content {
+		padding: 10px;
+}
+
+#nav {
+	font-family: impact;
+	background-color: white;
+	width: 400px;
+	float: left;
+}
+
+#nav ul {
+	font-family: Trebuchet MS;
+	font-size: 250%;
+	list-style-type: none;
+	padding: 0;
+}
+
+
+#main {
+	color: #ff9900;
+	width: 1380px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999;
+	color: white;
+	text-align: right;
+}
